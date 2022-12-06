@@ -1,7 +1,9 @@
 print('simon')
-print('Ivo')
-print('chidi')
-print('Chioma')
-print('LSS')
+print('Ivo') 
 # echo simon
+print('chidi')
+print('grace')
+print('glory')
+print('LSS')
+#bugs removed
 
